@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on little projects to learn more!
 - 📫 How to reach me: lmm.cantante@gmail.com
 - 😄 Pronouns: luis
-- ⚡ Fun fact: just started today, from military to IT ahah
+- ⚡ Fun fact: just started today, from military to IT 😎
 
 <!---
 luismcantante/luismcantante is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
